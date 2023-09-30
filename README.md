@@ -4,7 +4,7 @@ Guía compilación y ejecución:
 
 Configuración botón run: make -s ./main
 
-Al darle a "Run", el programa mostrará un menú en el que hay que escribir un número del 1 al 7 para indicar lo que el usuario desee realizar. Luego de seleccionar la opción, si es que el número ingresado es 1, se pedirá al usuario los tipos de datos correspondientes al punto, mientras que si se ingresa el 4, se hará lo mismo pero con los datos correspondientes al punto. Las otras opciones pedirán tipos de datos dependiendo de lo que se quiera mostrar, pero de todos, el programa imprime la solicitud de ingreso del dato que necesita para buscar e imprimir información.
+Al darle a "Run", el programa mostrará un menú en el que hay que escribir un número del 1 al 7 para indicar lo que el usuario desee realizar. Luego de seleccionar la opción, si es que el número ingresado es 1, se pedirá al usuario los tipos de datos correspondientes al punto, mientras que si se ingresa el 4, se hará lo mismo pero con los datos correspondientes al turista. Las otras opciones pedirán tipos de datos dependiendo de lo que se quiera mostrar, pero de todos, el programa imprime la solicitud de ingreso del dato que necesita para buscar e imprimir información.
 
 Cuando se termine el proceso de la función del número que se ingresa, muestra nuevamente el menú para seguir seleccionando opciones, o para terminar la ejecución del programa ingresando un 0.
 
